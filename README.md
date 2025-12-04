@@ -6,4 +6,7 @@
 ### Fuente de datos:
 [Kaggle NVIDIA Stock Data 2025](https://www.google.com/url?q=https%3A%2F%2Fwww.kaggle.com%2Fdatasets%2Fumerhaddii%2Fnvidia-stock-data-2024%3Fresource%3Ddownload%26select%3DNVDA_1999-01-01_2025-08-18.csv)
 
+### Video de entrega final:
+[Ver video](https://www.youtube.com/watch?v=lQVqiUtCpRQ)
+
 
